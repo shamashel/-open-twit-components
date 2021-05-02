@@ -1,0 +1,9 @@
+export { BookmarkIcon as bookmark } from './bookmark';
+export { DocumentIcon as document } from './document';
+export { HashtagIcon as hashtag } from './hashtag';
+export { MailIcon as mail } from './mail';
+export { MoreOutlineIcon as moreOutline } from './more_outline';
+export { MoreIcon as more } from './more';
+export { NotificationIcon as notification } from './notification';
+export { PersonIcon as person } from './person';
+export { SearchIcon as search } from './search';
